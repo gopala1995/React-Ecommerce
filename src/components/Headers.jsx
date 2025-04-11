@@ -12,7 +12,7 @@ const Headers = () => {
       <Navbar style={{ height: "60px", background: "teal", color: "white" }}>
         <Container>
           <NavLink to="/" className="text-decoration-none text-light mx-2">
-            <h3 className="text-light">Swimato</h3>
+            <h3 className="text-light">Swigato</h3>
           </NavLink>
           <NavLink to="/cart" className="text-decoration-none text-light mx-2">
             <div id="ex4">
